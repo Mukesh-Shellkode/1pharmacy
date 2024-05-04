@@ -1,0 +1,1 @@
+conda activate C:\Users\Lenovo\Desktop\1pharmacy\1pharmacy
